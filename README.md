@@ -74,9 +74,9 @@ figures, the parameters and introduced values (in a mat file) (Fig. 4).
 
   -----------------------------------------------------------------------
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------
-|  ![Una captura de pantalla de una computadora Descripción generada   |   ![Una captura de pantalla de una computadora ||Descripción generada						      |  Descripción generada	|
-|  automáticamente](./img/media/image4.png)   			      |    automáticamente](./img/media/image5.png)  |                       
+  
+  |  ![](./img/media/image4.png)    |![](./img/media/image5.png) |
+  |---- |----- |                  
   ---------------------------------------------------------------------- -----------------------------------------------------------------------
   **Fig 4**. Tabular description of the chromatographic profile          
 
@@ -108,10 +108,8 @@ graphically and saved in a folder as it is shown in figures 6 and 7.
 
   -----------------------------------------------------------------------
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------
-|  ![Una captura de pantalla de una computadora Descripción generada     |  ![Una captura de pantalla de una computadora |
-|Descripción generada							||
-|  automáticamente](./img/media/image8.png)				|   automáticamente](./img/media/image9.png)|
+   |  ![](./img/media/image8.png)    |![](./img/media/image9.png) |
+  |---- |----- |                  
   ----------------------------------------------------------------------- ----------------------------------------------------------------------
   **Fig 7**. Tabular description of the manual chromatographic profile    
 
