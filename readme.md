@@ -45,20 +45,18 @@ comand 'MEG' in Matlab console. Choose between one of two options:
 'Encoded' or 'Manual' (Fig. 1)
 
   -----------------------------------------------------------------------
-  ![](./img/media/image1.png){width="3.970138888888889in"
-  height="1.2708333333333333in"}
+  ![](./img/media/image1.png)
   -----------------------------------------------------------------------
   **Fig 1**. Startup window
 
   -----------------------------------------------------------------------
 
 The Encoded button opens an input dialog where one can create a
-multisegmented gradient elution (Fig. 2) using the parameters above
+multisegmented gradient elution (Fig. 2) using the parameters previously
 described.
 
   -----------------------------------------------------------------------
-  ![](./img/media/image2.png){width="2.4368055555555554in"
-  height="3.75in"}
+  ![](./img/media/image2.png)
   -----------------------------------------------------------------------
   **Fig 2**. Data tab. Create a new elution gradient multisegmented
 
@@ -70,8 +68,7 @@ with the user selected name (Fig. 2) is created containing the two
 figures, the parameters and introduced values (in a mat file) (Fig. 4).
 
   -----------------------------------------------------------------------
-  ![](./img/media/image3.png){width="4.802083333333333in"
-  height="2.1875in"}
+  ![](./img/media/image3.png)
   -----------------------------------------------------------------------
   **Fig 3**. Graphical description of the chromatographic profile
 
@@ -79,8 +76,7 @@ figures, the parameters and introduced values (in a mat file) (Fig. 4).
 
   ----------------------------------------------------------------------------------------------------------------------------------------------
   ![Una captura de pantalla de una computadora Descripción generada      ![Una captura de pantalla de una computadora Descripción generada
-  automáticamente](./img/media/image4.png){width="3.625984251968504in"   automáticamente](./img/media/image5.png){width="3.2365463692038494in"
-  height="2.7125984251968505in"}                                         height="2.8577898075240595in"}
+  automáticamente](./img/media/image4.png)   					automáticamente](./img/media/image5.png)                                      
   ---------------------------------------------------------------------- -----------------------------------------------------------------------
   **Fig 4**. Tabular description of the chromatographic profile          
 
@@ -93,8 +89,7 @@ remains in each segment of the gradient.
 
   -----------------------------------------------------------------------
   ![Interfaz de usuario gráfica, Aplicación, Word Descripción generada
-  automáticamente](./img/media/image6.png){width="3.417852143482065in"
-  height="2.740624453193351in"}
+  automáticamente](./img/media/image6.png)
   -----------------------------------------------------------------------
   **Fig 5**. Data tab. Create manually a new elution gradient
   multisegmented
@@ -102,13 +97,12 @@ remains in each segment of the gradient.
   -----------------------------------------------------------------------
 
 After selecting the parameters and pressing the "OK" button. The
-composition of phase mobile and the temporal profile are displayed
+composition of mobile phase and the temporal profile are displayed
 graphically and saved in a folder as it is shown in figures 6 and 7.
 
   -----------------------------------------------------------------------
   ![Captura de pantalla de computadora Descripción generada
-  automáticamente](./img/media/image7.png){width="5.3858267716535435in"
-  height="2.4448818897637796in"}
+  automáticamente](./img/media/image7.png)
   -----------------------------------------------------------------------
   **Fig 6**. Graphical description of the manual chromatographic profile
 
@@ -116,8 +110,7 @@ graphically and saved in a folder as it is shown in figures 6 and 7.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------
   ![Una captura de pantalla de una computadora Descripción generada       ![Una captura de pantalla de una computadora Descripción generada
-  automáticamente](./img/media/image8.png){width="3.6255807086614174in"   automáticamente](./img/media/image9.png){width="2.827143482064742in"
-  height="3.1671741032370955in"}                                          height="2.845207786526684in"}
+  automáticamente](./img/media/image8.png)				   automáticamente](./img/media/image9.png)
   ----------------------------------------------------------------------- ----------------------------------------------------------------------
   **Fig 7**. Tabular description of the manual chromatographic profile    
 
@@ -135,3 +128,9 @@ graphically and saved in a folder as it is shown in figures 6 and 7.
 
 -   tmixture. Has no inputs, draws the triangle of mixtures without any
     other graphic object.
+
+**Cite as**
+ 
+L.A. Sarabia, M.M. Arce, D. Castro, S. Sanllorente, M.C.Ortiz. 
+“MEG a MATLAB tool to build a multisegmented ternary gradient profile."
+
